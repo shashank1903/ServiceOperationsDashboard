@@ -1,0 +1,10 @@
+{
+  "description": "Monitors system health across 500 PCs with real-time network metrics and color-coded alerts, enabling quick issue detection and detailed analysis.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
